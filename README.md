@@ -1,5 +1,5 @@
-- 👋 Hi there! My name is Ollie and I am a Software Engineering student at the University of Glasgow
-- 📱 My main interests are networked systems, low level programming and mobile development
+- 👋 Hi there! My name is Ollie and I am a Software Engineering student at the University of Glasgow.
+- 📱 My main interests are networked systems, low level programming and mobile development.
 - 🎾 I also love to play racquet sports and can't pick between Tennis and Badminton!
-- 👇 Feel free to check out my projects; I will be continuing to add to this with what I'm currently working on
+- 👇 Feel free to check out my projects; I will be continuing to add to this with what I'm currently working on.
 - 📧 If you'd like to reach out to me about anything you can contact me at oliverlivingston@iCloud.com - I'll be sure to respond to you!
