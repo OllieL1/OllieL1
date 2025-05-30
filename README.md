@@ -1,7 +1,7 @@
 - Hi there 👋 My name is Ollie and I am a 4th Software Engineering student at the University of Glasgow.
 - Here you can find the current projects I am working on, most notably:
   - [Atom Tasks](https://github.com/OllieL1/StudyPlan) - What started as a simple study tool for myself is now being built out with a friend to a fully fledged task management assistant. Here's hoping I can add the link to its release soon.
-  - [Snippet]() - Another project with a friend, this one is more on the low level end. We are aiming to build a simple display that plugs into your computer and displays a *snippet* of useful information like system diagnostics, current media playing, upcoming calendar events etc.
+  - [Snippet](https://github.com/OllieL1/Snippet) - Another project with a friend, this one is more on the low level end. We are aiming to build a simple display that plugs into your computer and displays a *snippet* of useful information like system diagnostics, current media playing, upcoming calendar events etc.
   - [Switch](https://github.com/OllieL1/GUTS-T35) - A hackathon project I am particularly proud of, this was built in a team of four (but in reality three) in just 24 hours.
 - I'll try keep this updated, so stay tuned for more progress across these projects!
 - Please feel free to reach out if you want to discuss anything or work together on a project, best place would be via [email](mailto:oliverlivingston@iCloud.com)
